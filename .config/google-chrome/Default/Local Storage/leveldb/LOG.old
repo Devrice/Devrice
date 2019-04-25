@@ -1,0 +1,5 @@
+2019/04/25-07:58:49.949 af5 Reusing MANIFEST leveldb/MANIFEST-000001
+2019/04/25-07:58:49.950 af5 Recovering log #113
+2019/04/25-07:58:49.994 af5 Level-0 table #117: started
+2019/04/25-07:58:50.048 af5 Level-0 table #117: 12716 bytes OK
+2019/04/25-07:58:50.127 af5 Delete type=0 #113

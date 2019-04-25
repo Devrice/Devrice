@@ -1,0 +1,68 @@
+{
+  "Version": "19.04",
+  "OEM": {
+    "Vendor": "LENOVO",
+    "Product": "2349H86"
+  },
+  "BIOS": {
+    "Vendor": "LENOVO",
+    "Version": "G1ET41WW (1.16 )"
+  },
+  "Arch": "amd64",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "0166"
+    }
+  ],
+  "RAM": 7.9,
+  "Disks": [
+    320.1
+  ],
+  "Partitions": [
+    306.6
+  ],
+  "Screens": [
+    {
+      "Size": "310mmx174mm",
+      "Resolution": "1366x768",
+      "Frequency": "59.98"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "x11"
+  },
+  "Language": "fr_FR",
+  "Timezone": "Europe/Paris",
+  "Install": {
+    "Media": "Ubuntu 19.04 \"Disco Dingo\" - Release amd64 (20190416)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "use_device",
+    "DownloadUpdates": true,
+    "Language": "fr",
+    "Minimal": true,
+    "RestrictedAddons": true,
+    "Stages": {
+      "0": "language",
+      "1": "language",
+      "59": "console_setup",
+      "123": "console_setup",
+      "130": "language",
+      "137": "console_setup",
+      "144": "console_setup",
+      "150": "wireless",
+      "153": "prepare",
+      "188": "partman",
+      "217": "start_install",
+      "223": "timezone",
+      "225": "usersetup",
+      "237": "user_done",
+      "847": "done"
+    }
+  }
+}

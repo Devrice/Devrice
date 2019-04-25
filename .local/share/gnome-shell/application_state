@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-language-selector.desktop" score="0.0625" last-seen="1556177459"/>
+    <application id="org.gnome.Evince.desktop" score="0" last-seen="1556135185"/>
+    <application id="org.gnome.FileRoller.desktop" score="0.125" last-seen="1556137883"/>
+    <application id="google-chrome.desktop" score="104.0625" last-seen="1556191012"/>
+    <application id="org.gnome.Software.desktop" score="74901.2197265625" last-seen="1556196148"/>
+    <application id="org.gnome.Shell.PortalHelper.desktop" score="0.0006103515625" last-seen="1556128813"/>
+    <application id="gnome-control-center.desktop" score="1.56494140625" last-seen="1556186494"/>
+    <application id="apport-gtk.desktop" score="0.0625" last-seen="1556135145"/>
+    <application id="org.gnome.Nautilus.desktop" score="7.7841796875" last-seen="1556198335"/>
+    <application id="eog.desktop" score="0.375" last-seen="1556143313"/>
+    <application id="code_code.desktop" score="239.208984375" last-seen="1556198350"/>
+    <application id="gnome-initial-setup.desktop" score="0.0048828125" last-seen="1556118286"/>
+    <application id="update-manager.desktop" score="0" last-seen="1556172519"/>
+    <application id="firefox.desktop" score="179.97265625" last-seen="1556198267"/>
+    <application id="org.gnome.Terminal.desktop" score="74.8125" last-seen="1556198207"/>
+    <application id="xdg-desktop-portal-gtk.desktop" score="0.3125" last-seen="1556140413"/>
+  </context>
+</application-state>

@@ -1,0 +1,102 @@
+body{
+    margin: 0%;
+    padding: O%;
+
+}
+
+#header-container#{
+
+height: 100px;
+background-color: orange;
+}
+
+#home-container{
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#case1{
+    width: 22%;
+    height: 300px;
+    background-color; 
+}
+
+.image{
+    background-image: url;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.image img{
+    height: 100px;
+    width: 95px;
+}
+
+.text{
+    height: 150px;
+    padding: 15px 5px 10px 0px;
+    border: 1px solide lightgray;
+    box-shadow: Opx 1px 1px lightgray;
+
+}
+
+.text h3{
+    margin-bottom: 4px;
+    text-size: 2em;
+}
+
+.text h5{
+    color: red;
+    margin: 10px 2px;
+    font-sie: 0,9em;
+}
+
+.text p{
+margin-top: 5px;
+font-size: 0,7em;
+}
+
+.bouton{
+    background-color: yellow;
+    height: 35px;
+    width: 95px;
+    color: white;
+    text-align: center;
+}
+
+.bouton a{
+    text-decoration: none;
+    color: whie;
+    line-height: 35px;
+}
+
+.texthover{
+    opacity: 0;
+    position: absolute;
+    z-index: 3;
+    font-size: ;
+    height:;
+    weight:;
+    background-color:;
+    text-align: center;
+    font-weight: 500p;
+
+
+}
+
+.image:hover .texthover{
+    opacity: 3;
+}
+
+.special{
+    background-color: yellow;
+    color: white;
+    font-size: 
+    width: 6Opx;
+    height: 30px;
+}

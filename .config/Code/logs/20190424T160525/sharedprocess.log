@@ -1,0 +1,28 @@
+[2019-04-24 16:05:29.940] [sharedprocess] [info] main {"machineId":"5c19433d321db981c24d7f3de725d60f5707369282950d802ef7baad260e3f66"}
+[2019-04-24 16:05:30.016] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-24 16:05:30.082] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-24 16:05:30.675] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-24 16:05:30.679] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-24 16:05:30.711] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-24 16:05:30.719] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-24 16:05:30.836] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-24 16:05:30.844] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-24 16:05:30.851] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-24 16:05:30.859] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-24 16:05:32.858] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-24 16:06:09.959] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-04-24 16:06:21.416] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-24 16:06:21.423] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-24 16:06:21.425] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-24 16:06:21.435] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-24 16:06:21.516] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-24 16:06:21.520] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-24 16:06:21.524] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-24 16:10:25.752] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2019-04-24 16:10:25.756] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-24 16:10:28.131] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /tmp/f9c5f35a-2380-4fa0-9410-03c28e65ba1f
+[2019-04-24 16:10:28.877] [sharedprocess] [info] Extracted extension to /home/simplon/.vscode/extensions/.ms-vscode.cpptools-0.22.1: ms-vscode.cpptools
+[2019-04-24 16:10:28.877] [sharedprocess] [info] Renamed to /home/simplon/.vscode/extensions/ms-vscode.cpptools-0.22.1
+[2019-04-24 16:10:28.880] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2019-04-24 16:10:28.941] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2019-04-24 16:10:32.961] [sharedprocess] [info] Scanned user extensions: 1

@@ -1,0 +1,11 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version:0.19t:$
+Arch:x86_64-gcc3:$
+
+[PLUGINS]
+
+[INVALID]
+/usr/lib/firefox-addons/plugins/libpepflashplayer.so:$
+1556138299000:$

@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-cards{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.card{
+    width: 22%;
+    border: 1px solid black;
+
+}
+
+.container-img{
+    width: 100%;
+    position: relative;
+    cursor: pointer;
+
+}
+
+.container-img:hover .text-ovelay{
+    opacity: 1;
+}
+
+.container-img:hover .image{
+    opacity: 0.3;
+    transition: 1s; 
+}
+
+.text-overlay{
+    opacity: O;
+    position: absolute;
+    top: 0;
+    margin: 0; 
+    transform: translate(-50, -50)
+}
+
+.container-info{
+    margin-left: 10px;
+}
+
+.title-card{
+    margin-top: 0px;
+}
+
+.text-under-title{
+    margin: 0;
+    color: red;
+    font-size: 17px;
+    font-weight: 600px;
+}
+
+.button{
+    color: black;
+    background: yellow;
+    border: none;
+    font-size: 17px;
+    padding: 
+}

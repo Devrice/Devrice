@@ -1,0 +1,16 @@
+[2019-04-25 09:31:15.820] [exthost] [info] extension host started
+[2019-04-25 09:31:15.897] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-04-25 09:31:15.897] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/6/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-04-25 09:31:16.004] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-04-25 09:31:16.004] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/6/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2019-04-25 09:31:16.114] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-04-25 09:31:16.114] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/6/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-04-25 09:31:16.138] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-04-25 09:31:16.139] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/6/usr/share/code/resources/app/extensions/git/dist/main
+[2019-04-25 09:31:16.285] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-04-25 09:31:16.285] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/6/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-04-25 09:31:16.297] [exthost] [info] eager extensions activated
+[2019-04-25 10:28:52.803] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:css"}
+[2019-04-25 10:28:52.803] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/6/usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain
+[2019-04-25 15:15:55.953] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"activationEvent":"*"}
+[2019-04-25 15:15:55.953] [exthost] [info] ExtensionService#loadCommonJSModule /home/simplon/.vscode/extensions/esbenp.prettier-vscode-1.8.1/out/src/extension
